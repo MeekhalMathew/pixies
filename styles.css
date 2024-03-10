@@ -1,0 +1,57 @@
+body {
+    font-family: 'Lucida Handwriting','Cursive' ;
+    background-color: #f4f4f4;
+    background: rgba(241, 241, 243, 0);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(104, 121, 9) 42%, rgba(0,212,255,1) 100%);
+    background-image: url("https://www.eurokidsindia.com/blog/wp-content/uploads/2023/09/galaxy-types-and-facts.jpg");
+
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: #f5eeeefb;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    outline-style: outset;
+    outline-width:thick;
+
+  }
+  
+  h1 {
+    color: rgba(253, 246, 253, 0.979);
+  }
+  
+  button {
+    background-color: #0a99f8;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .quote-container {
+    display: none; /* Hide the quote container initially */
+  }
+  
+  h3 {
+    color: #f3f1ee;
+  }
+  
+  h5 {
+    color: #f3f1ee;
+    margin-top: 5px;
+  }
+
+    
